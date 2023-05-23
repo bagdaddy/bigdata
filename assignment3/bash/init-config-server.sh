@@ -1,0 +1,1 @@
+docker-compose exec mongocfg1 sh -c "mongosh < /scripts/config-server.js"

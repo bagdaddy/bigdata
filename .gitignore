@@ -1,0 +1,8 @@
+assignment1/data/*
+assignment1/gray/*
+assignment1/result.csv
+assignment1/__pycache__
+
+assignment3/docker/mongo/*
+assignment3/aisdk-2023-05-01.zip
+assignment3/data.csv

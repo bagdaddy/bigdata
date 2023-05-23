@@ -1,0 +1,1 @@
+docker exec -it mongos1 bash -c "mongosh < /scripts/collection-init.js"
